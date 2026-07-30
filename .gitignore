@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# MLflow
+mlruns/
+
+# Model files
+models/*.pkl
+models/*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
